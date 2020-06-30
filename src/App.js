@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { getRepositories, addRepository, deleteRepository } from './services/api';
+import { getRepositories, addRepository, deleteRepository } from './services/methods';
 
 import "./styles.css";
 
